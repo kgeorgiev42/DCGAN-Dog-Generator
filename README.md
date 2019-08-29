@@ -39,7 +39,7 @@ Evaluation was based on the <b>MIFID(Memorization Informed Frechet Inception Dis
 
 - The official tutorial [kernel](https://www.kaggle.com/jadeblue/dcgans-and-techniques-to-optimize-them)
 - My best [submission](https://www.kaggle.com/jadeblue/dogdcgan-v7-ksize-dropout-sub) for this competition)
-- Blog post (coming soon)
+- Blog post (https://medium.com/@dragonflareful/dcgans-generating-dog-images-with-tensorflow-and-keras-fb51a1071432)
 
 ## Resources
 
