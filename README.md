@@ -1,6 +1,9 @@
 # DCGAN-Dog-Generator
 DCGAN model (and tutorial) for generating fake images of dogs based on the [Generative Dog Images Kaggle Competition (2019)](https://www.kaggle.com/c/generative-dog-images).
 
+## Google Colab version
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LUP_dymfwS5_yvZ_IeS_jmNyZhSyHz-5)
+
 ## Visualizing the generation over epochs (~9 hrs of training)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DCGAN gif](https://media.giphy.com/media/TL0HO5ikb99YMbF0uv/giphy.gif)
 
