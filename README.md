@@ -4,6 +4,8 @@ DCGAN model (and tutorial) for generating fake images of dogs based on the [Gene
 ## Google Colab version
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LUP_dymfwS5_yvZ_IeS_jmNyZhSyHz-5)
 
+To run this example locally or using Colab, you will need a <b>Kaggle account</b>, in order to retrieve its API key and use the provided datasets. Full tutorial is available [here](https://medium.com/@yvettewu.dw/tutorial-kaggle-api-google-colaboratory-1a054a382de0). 
+
 ## Visualizing the generation over epochs (~9 hrs of training)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DCGAN gif](https://media.giphy.com/media/TL0HO5ikb99YMbF0uv/giphy.gif)
 
